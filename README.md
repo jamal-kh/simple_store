@@ -20,8 +20,8 @@ This app is a simple **Store application** with **two pages**, created as part o
 ---
 
 ## 📷 Screenshots
-![home screen](https://github.com/user-attachments/assets/21035a4f-1223-4833-9b2e-d55a53b13c52)
-![paroduct detail screen](https://github.com/user-attachments/assets/26aa9873-b210-4eab-bef4-ad7078a0bb86)
+![home  screen](https://github.com/user-attachments/assets/26aa9873-b210-4eab-bef4-ad7078a0bb86)
+![product detail  screen](https://github.com/user-attachments/assets/21035a4f-1223-4833-9b2e-d55a53b13c52)
 
 
 
