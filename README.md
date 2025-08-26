@@ -1,16 +1,27 @@
-# store_app
+# 🛒 Flutter Store App
 
-A new Flutter project.
+My second project built with **Flutter** 🚀  
+This app is a simple **Store application** with **two pages**, created as part of my Flutter learning course.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Home page showing a list of products.  
+- Product detail page with more information.  
+- Clean and simple design.  
+- Uses custom models (`Product`) and reusable widgets (`ProductCard`).  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Built With
+- **Flutter** (Dart)  
+- **Material Design**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📷 Screenshots
+![home screen](https://github.com/user-attachments/assets/21035a4f-1223-4833-9b2e-d55a53b13c52)
+![paroduct detail screen](https://github.com/user-attachments/assets/26aa9873-b210-4eab-bef4-ad7078a0bb86)
+
+
+
